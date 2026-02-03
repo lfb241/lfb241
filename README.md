@@ -1,2 +1,2 @@
 ## Hi there 👋
-- 🌱 I’m currently studying bioinformatics in the third semester.
+- I am interested in life sciences and their application in modern technologies through the use of computer- and data science.
